@@ -572,6 +572,20 @@
                         "size":37300,
                         "sell":35345800,
                         "image": "https://i.imgur.com/WuWQOYy.jpg"
+                    },
+                    {    "ID":2,
+                        "name":"Sea Emperor Leviatha",
+                        "category":"Mythical",
+                        "size":373000,
+                        "sell":353458000,
+                        "image": "https://i.imgur.com/7ldShMT.png"
+                    },
+                    {    "ID":2,
+                        "name":"Sea Emperor Leviatha Baby",
+                        "category":"Mythical",
+                        "size":1000,
+                        "sell":3534580000,
+                        "image": "https://i.imgur.com/1VvQ3ZB.png"
                     }
                 ]
             }
