@@ -315,6 +315,14 @@
                         "size":170,
                         "sell":3480,
                         "image": "https://i.imgur.com/XRsxfIV.png"
+                    },
+                     {
+                        "ID":5,
+                        "name":"Sea Treader Leviathan",
+                        "category":"Legendary ",
+                        "size":300,
+                        "sell":10000000,
+                        "image": "https://i.imgur.com/85S3pSP.png"
                     }
                 ]
             },
@@ -369,6 +377,14 @@
                         "size":27,
                         "sell":200,
                         "image": "https://i.imgur.com/inXivDO.jpg"
+                    },
+                      {
+                        "ID":6,
+                        "name":"Sea Dragon Leviathan Skeleton",
+                        "category":"Mythical",
+                        "size":1000,
+                        "sell":40000000000,
+                        "image": "https://i.imgur.com/mEE5wF6.png"
                     }
                 ]
             },
@@ -931,6 +947,14 @@
                         "size":30,
                         "sell":200,
                         "image": "https://i.imgur.com/5oDIu17.png"
+                    },
+                      {
+                        "ID":6,
+                        "name":"Shadowleviathan",
+                        "category":"Legendary",
+                        "size":3000,
+                        "sell":200000000,
+                        "image": "https://i.imgur.com/hqQVKbY.png"
                     }
                 ]
             },
