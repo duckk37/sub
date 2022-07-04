@@ -59,7 +59,7 @@
 		"name": "Stasis Rifle",
 		"price": 2000000000,
 		"durability": 4000,
-		"countdown": 5,
+		"countdown": 3,
 		"image": "https://i.imgur.com/5cqd3y4.png"
 	}
 ]
