@@ -1066,6 +1066,28 @@
                         "image": "https://i.imgur.com/VuLnzT8.png"
                     }
                 ]
+            },
+            {
+                "ID": 7,
+                "name":"Unknow",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Basel PhiPhai",
+                        "category":"Legendary",
+                        "size":111111111,
+                        "sell":111111111,
+                        "image": "https://i.imgur.com/ab1n2xD.jpg"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Bạt Lơ fish",
+                        "category":"Mythical",
+                        "size":222222222,
+                        "sell":222222222,
+                        "image": "https://i.imgur.com/d2f8V4X.png"
+                    }
+                ]
             }
         ]
     }
